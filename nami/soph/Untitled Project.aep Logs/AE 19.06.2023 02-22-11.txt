@@ -1,0 +1,8 @@
+  19.06.2023 02:22:11: Starting composition “Nami_Splash_leafes”.
+
+  Output To: O:\edits\nami\soph\Nami_Splash_leafes.avi    19.06.2023 02:23:28: Finished composition “Nami_Splash_leafes”.
+
+
+  Total Time Elapsed: 1 Min, 17 Sec
+Log closed on 19.06.2023 at 02:23:28
+
